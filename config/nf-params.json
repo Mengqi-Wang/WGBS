@@ -1,0 +1,6 @@
+{
+    "input": ".\/path_3\/*_R{1,2}.fastq.gz",
+    "fasta": "GCF_002263795.1_ARS-UCD1.2_genomic.fa",
+    "comprehensive": true,
+    "em_seq": true
+}
